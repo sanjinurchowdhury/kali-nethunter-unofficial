@@ -5,3 +5,5 @@ this is an rootless version of nethunter which is modified by sanjinurchowdhury.
 2.run 'cd kali-nethunter-unofficial'
 3.run 'chmod +x install-nethunter-termux.sh'
 4.now execute './install-nethunter-termux.sh' and follow the steps
+
+note that you have to install termux from fdroid and nethunter kex from nethunter store
